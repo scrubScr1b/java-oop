@@ -1,0 +1,5 @@
+var nilai:
+var = variant
+
+
+class diagram, use case diagram
